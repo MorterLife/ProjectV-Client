@@ -22,9 +22,9 @@ public class ClientLoader {
 	
 	public static final int PORT = 43594;
 
-	public static final String SERVER_NAME = " Serenity";
+	public static final String SERVER_NAME = " ProjectV";
 
-	public static String IP = "127.0.0.1";//149.56.143.0
+	public static String IP = "127.0.0.1";//VPS IP
 
 	
 	public static Properties client_parameters = new Properties();
@@ -87,7 +87,7 @@ public class ClientLoader {
 			app.setPreferredSize(new Dimension(765, 503));
 			
 			UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
-			frame = new JFrame("Serenity - #135");
+			frame = new JFrame("ProjectV - #135");
 			
 			frame.setLayout(new BorderLayout());
 			frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
