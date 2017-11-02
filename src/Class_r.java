@@ -93,8 +93,8 @@ public final class Class_r extends Node {
 			if (Class_ed.cache_dir == null) {
 				Class_ed.cache_dir = "~/";
 			}
-			Bindable.field_r_1704 = new String[] { Class_ed.cache_dir+"/.ProjectV"};//{ "c:/rscache/", "/rscache/", "c:/windows/", "c:/winnt/", "c:/", Class_ed.cache_dir, "/tmp/", "" };
-			Class_ed.field_j_2065 = (new String[] { Class_ed.cache_dir+"/.ProjectV/"});//{ new StringBuilder(".jagex_cache_").append(Class_dg.field_x_1614 * 1132367107).toString(), new StringBuilder(".file_store_").append(1132367107 * Class_dg.field_x_1614).toString() });
+			Bindable.field_r_1704 = new String[] { Class_ed.cache_dir+"/.Mysteria"};//{ "c:/rscache/", "/rscache/", "c:/windows/", "c:/winnt/", "c:/", Class_ed.cache_dir, "/tmp/", "" };
+			Class_ed.field_j_2065 = (new String[] { Class_ed.cache_dir+"/.Mysteria/"});//{ new StringBuilder(".jagex_cache_").append(Class_dg.field_x_1614 * 1132367107).toString(), new StringBuilder(".file_store_").append(1132367107 * Class_dg.field_x_1614).toString() });
 			int i_6_ = 0;
 			while_5_: while (i_6_ < 4) {
 				final String string_7_ = (i_6_ == 0 ? "" : new StringBuilder().append(i_6_).toString());

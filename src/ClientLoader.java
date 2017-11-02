@@ -22,7 +22,7 @@ public class ClientLoader {
 	
 	public static final int PORT = 43594;
 
-	public static final String SERVER_NAME = " ProjectV";
+	public static final String SERVER_NAME = " Mysteria";
 
 	public static String IP = "127.0.0.1";//VPS IP
 
@@ -87,7 +87,7 @@ public class ClientLoader {
 			app.setPreferredSize(new Dimension(765, 503));
 			
 			UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
-			frame = new JFrame("ProjectV - #135");
+			frame = new JFrame("Mysteria - #135");
 			
 			frame.setLayout(new BorderLayout());
 			frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
